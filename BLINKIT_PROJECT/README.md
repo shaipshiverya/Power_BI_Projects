@@ -114,5 +114,5 @@ Aspiring Data Analyst passionate about
 turning raw data into meaningful insights 
 using Power BI, SQL, and Excel.
 
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/shaipshi-verya-1b918a162/) 
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/shaipshi-1b918a162/) 
 [GitHub](https://github.com/shaipshiverya)
